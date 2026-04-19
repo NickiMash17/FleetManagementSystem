@@ -1,0 +1,15 @@
+bin/
+obj/
+*.user
+*.suo
+*.pfx
+*.publishsettings
+.vs/
+.vscode/
+
+# Specific to .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+*.log
