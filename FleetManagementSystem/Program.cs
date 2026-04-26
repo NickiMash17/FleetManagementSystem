@@ -2,7 +2,7 @@
 //  Fleet Monitoring & Vehicle Management System
 //  Entry Point
 //  Apex Auto Solutions | SPM622 FA1
-//  Developer: Nicolette Mashaba | Student No: 200232990
+//  Developer: Nicolette Mashaba | Student No: 20232990
 // ═══════════════════════════════════════════════════════════════════════════════
 
 using System;
